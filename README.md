@@ -10,9 +10,10 @@
 README
 
 This repository includes an android application along with its apk file. 
-FUNCTIONALITY - Fetches JSON data from a URL and displays the list which is sorted as-
+
+<p>FUNCTIONALITY - Fetches JSON data from a URL and displays the list which is sorted as-
 - Items grouped by "listId"
-- Sorted the results first by "listID" then by "name" where items containing "name" as null or blank have been filtered out
+- Sorted the results first by "listID" then by "name" where items containing "name" as null or blank have been filtered out </p>
 
 INSTALLATION- The repository comes with an apk file.
 The file can be downloaded onto a compatible Android device and can be installed.
